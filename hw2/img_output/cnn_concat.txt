@@ -1,0 +1,132 @@
+
+
+
+multiply sentences: False
+Epoch: [1/10], Step: [501/3125], Train loss: 0.9769985675811768, Train acc: 58.515, Validation Acc: 59.0
+Epoch: [1/10], Step: [1001/3125], Train loss: 0.9283366799354553, Train acc: 60.777, Validation Acc: 60.6
+Epoch: [1/10], Step: [1501/3125], Train loss: 0.8169845342636108, Train acc: 64.589, Validation Acc: 62.0
+Epoch: [1/10], Step: [2001/3125], Train loss: 0.6788929104804993, Train acc: 65.863, Validation Acc: 64.3
+Epoch: [1/10], Step: [2501/3125], Train loss: 0.8775318264961243, Train acc: 66.155, Validation Acc: 63.4
+Epoch: [1/10], Step: [3001/3125], Train loss: 0.8769146800041199, Train acc: 67.66, Validation Acc: 64.4
+Epoch: [2/10], Step: [501/3125], Train loss: 0.7151927947998047, Train acc: 67.481, Validation Acc: 62.5
+Epoch: [2/10], Step: [1001/3125], Train loss: 0.5975480675697327, Train acc: 69.063, Validation Acc: 65.7
+Epoch: [2/10], Step: [1501/3125], Train loss: 0.8434786200523376, Train acc: 69.475, Validation Acc: 64.7
+Epoch: [2/10], Step: [2001/3125], Train loss: 0.5969799757003784, Train acc: 69.966, Validation Acc: 64.9
+Epoch: [2/10], Step: [2501/3125], Train loss: 0.6526865363121033, Train acc: 71.037, Validation Acc: 66.4
+Epoch: [2/10], Step: [3001/3125], Train loss: 0.8321953415870667, Train acc: 71.61, Validation Acc: 65.9
+Epoch: [3/10], Step: [501/3125], Train loss: 0.6309848427772522, Train acc: 72.532, Validation Acc: 66.6
+Epoch: [3/10], Step: [1001/3125], Train loss: 0.710715651512146, Train acc: 72.865, Validation Acc: 65.8
+Epoch: [3/10], Step: [1501/3125], Train loss: 0.8103086948394775, Train acc: 74.51, Validation Acc: 67.2
+Epoch: [3/10], Step: [2001/3125], Train loss: 0.592962384223938, Train acc: 74.971, Validation Acc: 67.4
+Epoch: [3/10], Step: [2501/3125], Train loss: 0.7710216045379639, Train acc: 74.987, Validation Acc: 67.0
+Epoch: [3/10], Step: [3001/3125], Train loss: 0.6554087996482849, Train acc: 75.955, Validation Acc: 67.6
+Epoch: [4/10], Step: [501/3125], Train loss: 0.5838963985443115, Train acc: 75.669, Validation Acc: 66.7
+Epoch: [4/10], Step: [1001/3125], Train loss: 0.613779604434967, Train acc: 76.634, Validation Acc: 66.4
+Epoch: [4/10], Step: [1501/3125], Train loss: 0.6188741326332092, Train acc: 78.429, Validation Acc: 67.0
+Epoch: [4/10], Step: [2001/3125], Train loss: 0.49264615774154663, Train acc: 78.791, Validation Acc: 68.0
+Epoch: [4/10], Step: [2501/3125], Train loss: 0.4780443012714386, Train acc: 78.954, Validation Acc: 69.2
+Epoch: [4/10], Step: [3001/3125], Train loss: 0.8684139847755432, Train acc: 78.871, Validation Acc: 68.1
+Epoch: [5/10], Step: [501/3125], Train loss: 0.3784200847148895, Train acc: 80.696, Validation Acc: 68.8
+Epoch: [5/10], Step: [1001/3125], Train loss: 0.43098369240760803, Train acc: 80.707, Validation Acc: 67.4
+Epoch: [5/10], Step: [1501/3125], Train loss: 0.49181491136550903, Train acc: 81.885, Validation Acc: 69.1
+Epoch: [5/10], Step: [2001/3125], Train loss: 0.4656173288822174, Train acc: 81.263, Validation Acc: 67.5
+Epoch: [5/10], Step: [2501/3125], Train loss: 0.4458901584148407, Train acc: 81.696, Validation Acc: 68.4
+Epoch: [5/10], Step: [3001/3125], Train loss: 0.38853174448013306, Train acc: 82.191, Validation Acc: 66.7
+Epoch: [6/10], Step: [501/3125], Train loss: 0.43604567646980286, Train acc: 83.581, Validation Acc: 67.4
+Epoch: [6/10], Step: [1001/3125], Train loss: 0.4018155038356781, Train acc: 84.159, Validation Acc: 67.0
+Epoch: [6/10], Step: [1501/3125], Train loss: 0.578303873538971, Train acc: 84.339, Validation Acc: 67.1
+Epoch: [6/10], Step: [2001/3125], Train loss: 0.4204627275466919, Train acc: 85.53, Validation Acc: 66.5
+Epoch: [6/10], Step: [2501/3125], Train loss: 0.4268030524253845, Train acc: 85.515, Validation Acc: 68.6
+Epoch: [6/10], Step: [3001/3125], Train loss: 0.3270817995071411, Train acc: 85.694, Validation Acc: 66.6
+Epoch: [7/10], Step: [501/3125], Train loss: 0.4286855161190033, Train acc: 85.282, Validation Acc: 67.3
+Epoch: [7/10], Step: [1001/3125], Train loss: 0.23896023631095886, Train acc: 87.002, Validation Acc: 66.3
+Epoch: [7/10], Step: [1501/3125], Train loss: 0.5852044820785522, Train acc: 87.606, Validation Acc: 66.7
+Epoch: [7/10], Step: [2001/3125], Train loss: 0.26421865820884705, Train acc: 87.517, Validation Acc: 66.9
+Epoch: [7/10], Step: [2501/3125], Train loss: 0.3447141647338867, Train acc: 88.69, Validation Acc: 68.4
+Epoch: [7/10], Step: [3001/3125], Train loss: 0.7891578674316406, Train acc: 89.157, Validation Acc: 68.7
+Epoch: [8/10], Step: [501/3125], Train loss: 0.4426310658454895, Train acc: 89.527, Validation Acc: 67.8
+Epoch: [8/10], Step: [1001/3125], Train loss: 0.43411004543304443, Train acc: 88.914, Validation Acc: 67.0
+Epoch: [8/10], Step: [1501/3125], Train loss: 0.5049295425415039, Train acc: 89.57, Validation Acc: 65.4
+Epoch: [8/10], Step: [2001/3125], Train loss: 0.4622248411178589, Train acc: 89.925, Validation Acc: 66.7
+Epoch: [8/10], Step: [2501/3125], Train loss: 0.25151684880256653, Train acc: 90.614, Validation Acc: 66.7
+Epoch: [8/10], Step: [3001/3125], Train loss: 0.5277953147888184, Train acc: 90.897, Validation Acc: 68.0
+Epoch: [9/10], Step: [501/3125], Train loss: 0.06693006306886673, Train acc: 91.496, Validation Acc: 66.6
+Epoch: [9/10], Step: [1001/3125], Train loss: 0.26870518922805786, Train acc: 91.456, Validation Acc: 66.8
+Epoch: [9/10], Step: [1501/3125], Train loss: 0.4793332517147064, Train acc: 91.513, Validation Acc: 67.4
+Epoch: [9/10], Step: [2001/3125], Train loss: 0.21106989681720734, Train acc: 92.082, Validation Acc: 65.7
+Epoch: [9/10], Step: [2501/3125], Train loss: 0.24940656125545502, Train acc: 92.107, Validation Acc: 66.7
+Epoch: [9/10], Step: [3001/3125], Train loss: 0.45470130443573, Train acc: 92.72, Validation Acc: 65.3
+Epoch: [10/10], Step: [501/3125], Train loss: 0.11015570163726807, Train acc: 91.816, Validation Acc: 64.3
+Epoch: [10/10], Step: [1001/3125], Train loss: 0.518695056438446, Train acc: 92.356, Validation Acc: 65.1
+Epoch: [10/10], Step: [1501/3125], Train loss: 0.5083922147750854, Train acc: 93.024, Validation Acc: 67.1
+Epoch: [10/10], Step: [2001/3125], Train loss: 0.2950482964515686, Train acc: 93.523, Validation Acc: 65.9
+Epoch: [10/10], Step: [2501/3125], Train loss: 0.24793313443660736, Train acc: 92.458, Validation Acc: 65.8
+Epoch: [10/10], Step: [3001/3125], Train loss: 0.14559556543827057, Train acc: 93.392, Validation Acc: 66.4
+
+
+
+multiply sentences: True
+Epoch: [1/10], Step: [501/3125], Train loss: 0.7325617074966431, Train acc: 60.058, Validation Acc: 59.5
+Epoch: [1/10], Step: [1001/3125], Train loss: 0.8329247832298279, Train acc: 62.981, Validation Acc: 60.4
+Epoch: [1/10], Step: [1501/3125], Train loss: 0.8809465169906616, Train acc: 64.124, Validation Acc: 61.1
+Epoch: [1/10], Step: [2001/3125], Train loss: 0.751411497592926, Train acc: 64.462, Validation Acc: 61.7
+Epoch: [1/10], Step: [2501/3125], Train loss: 0.8171890377998352, Train acc: 66.489, Validation Acc: 62.3
+Epoch: [1/10], Step: [3001/3125], Train loss: 0.8478896021842957, Train acc: 67.706, Validation Acc: 63.8
+Epoch: [2/10], Step: [501/3125], Train loss: 0.7284806370735168, Train acc: 67.497, Validation Acc: 64.3
+Epoch: [2/10], Step: [1001/3125], Train loss: 0.5633275508880615, Train acc: 69.152, Validation Acc: 64.3
+Epoch: [2/10], Step: [1501/3125], Train loss: 0.5467578172683716, Train acc: 69.9, Validation Acc: 64.9
+Epoch: [2/10], Step: [2001/3125], Train loss: 0.7088049650192261, Train acc: 69.504, Validation Acc: 65.3
+Epoch: [2/10], Step: [2501/3125], Train loss: 0.6915867924690247, Train acc: 71.058, Validation Acc: 65.5
+Epoch: [2/10], Step: [3001/3125], Train loss: 0.9077662229537964, Train acc: 71.365, Validation Acc: 65.6
+Epoch: [3/10], Step: [501/3125], Train loss: 0.677902340888977, Train acc: 71.806, Validation Acc: 66.4
+Epoch: [3/10], Step: [1001/3125], Train loss: 0.8838793039321899, Train acc: 72.552, Validation Acc: 66.7
+Epoch: [3/10], Step: [1501/3125], Train loss: 0.7832454442977905, Train acc: 73.869, Validation Acc: 67.4
+Epoch: [3/10], Step: [2001/3125], Train loss: 0.7620315551757812, Train acc: 74.052, Validation Acc: 67.4
+Epoch: [3/10], Step: [2501/3125], Train loss: 0.9311686754226685, Train acc: 73.543, Validation Acc: 66.5
+Epoch: [3/10], Step: [3001/3125], Train loss: 0.4606369435787201, Train acc: 76.453, Validation Acc: 69.1
+Epoch: [4/10], Step: [501/3125], Train loss: 0.6977561712265015, Train acc: 74.194, Validation Acc: 66.0
+Epoch: [4/10], Step: [1001/3125], Train loss: 0.7177944779396057, Train acc: 76.901, Validation Acc: 68.5
+Epoch: [4/10], Step: [1501/3125], Train loss: 0.460335373878479, Train acc: 77.671, Validation Acc: 68.1
+Epoch: [4/10], Step: [2001/3125], Train loss: 0.5735935568809509, Train acc: 78.177, Validation Acc: 67.8
+Epoch: [4/10], Step: [2501/3125], Train loss: 0.5534800291061401, Train acc: 78.914, Validation Acc: 67.7
+Epoch: [4/10], Step: [3001/3125], Train loss: 0.6089271306991577, Train acc: 76.8, Validation Acc: 67.9
+Epoch: [5/10], Step: [501/3125], Train loss: 0.4102237820625305, Train acc: 78.508, Validation Acc: 70.0
+Epoch: [5/10], Step: [1001/3125], Train loss: 0.8263108730316162, Train acc: 79.517, Validation Acc: 69.3
+Epoch: [5/10], Step: [1501/3125], Train loss: 0.3675517439842224, Train acc: 80.283, Validation Acc: 69.9
+Epoch: [5/10], Step: [2001/3125], Train loss: 0.5311816334724426, Train acc: 80.47, Validation Acc: 69.0
+Epoch: [5/10], Step: [2501/3125], Train loss: 0.44408664107322693, Train acc: 81.429, Validation Acc: 69.9
+Epoch: [5/10], Step: [3001/3125], Train loss: 0.6210189461708069, Train acc: 82.167, Validation Acc: 68.1
+Epoch: [6/10], Step: [501/3125], Train loss: 0.646947979927063, Train acc: 82.708, Validation Acc: 68.4
+Epoch: [6/10], Step: [1001/3125], Train loss: 0.3543204069137573, Train acc: 82.937, Validation Acc: 70.2
+Epoch: [6/10], Step: [1501/3125], Train loss: 0.502905547618866, Train acc: 83.193, Validation Acc: 70.3
+Epoch: [6/10], Step: [2001/3125], Train loss: 0.48981648683547974, Train acc: 84.216, Validation Acc: 68.9
+Epoch: [6/10], Step: [2501/3125], Train loss: 0.6298782825469971, Train acc: 84.559, Validation Acc: 69.3
+Epoch: [6/10], Step: [3001/3125], Train loss: 0.4991863965988159, Train acc: 84.915, Validation Acc: 69.3
+Epoch: [7/10], Step: [501/3125], Train loss: 0.25683239102363586, Train acc: 85.232, Validation Acc: 69.1
+Epoch: [7/10], Step: [1001/3125], Train loss: 0.233951598405838, Train acc: 85.825, Validation Acc: 69.7
+Epoch: [7/10], Step: [1501/3125], Train loss: 0.3617003560066223, Train acc: 85.804, Validation Acc: 68.9
+Epoch: [7/10], Step: [2001/3125], Train loss: 0.2955027222633362, Train acc: 85.684, Validation Acc: 68.8
+Epoch: [7/10], Step: [2501/3125], Train loss: 0.5674908757209778, Train acc: 85.045, Validation Acc: 67.7
+Epoch: [7/10], Step: [3001/3125], Train loss: 0.5690208077430725, Train acc: 87.012, Validation Acc: 70.6
+Epoch: [8/10], Step: [501/3125], Train loss: 0.3787352442741394, Train acc: 87.202, Validation Acc: 69.5
+Epoch: [8/10], Step: [1001/3125], Train loss: 0.5324066877365112, Train acc: 85.29, Validation Acc: 67.3
+Epoch: [8/10], Step: [1501/3125], Train loss: 0.32757678627967834, Train acc: 88.408, Validation Acc: 69.5
+Epoch: [8/10], Step: [2001/3125], Train loss: 0.28623709082603455, Train acc: 88.851, Validation Acc: 70.2
+Epoch: [8/10], Step: [2501/3125], Train loss: 0.5492336750030518, Train acc: 86.866, Validation Acc: 69.0
+Epoch: [8/10], Step: [3001/3125], Train loss: 0.5101417899131775, Train acc: 88.527, Validation Acc: 70.2
+Epoch: [9/10], Step: [501/3125], Train loss: 0.32252728939056396, Train acc: 89.674, Validation Acc: 68.1
+Epoch: [9/10], Step: [1001/3125], Train loss: 0.3548285663127899, Train acc: 89.06, Validation Acc: 68.5
+Epoch: [9/10], Step: [1501/3125], Train loss: 0.3414599299430847, Train acc: 89.889, Validation Acc: 70.1
+Epoch: [9/10], Step: [2001/3125], Train loss: 0.28762221336364746, Train acc: 90.096, Validation Acc: 69.1
+Epoch: [9/10], Step: [2501/3125], Train loss: 0.38416269421577454, Train acc: 90.077, Validation Acc: 69.4
+Epoch: [9/10], Step: [3001/3125], Train loss: 0.2500496208667755, Train acc: 88.356, Validation Acc: 68.2
+Epoch: [10/10], Step: [501/3125], Train loss: 0.548944354057312, Train acc: 90.904, Validation Acc: 68.3
+Epoch: [10/10], Step: [1001/3125], Train loss: 0.3241734504699707, Train acc: 89.911, Validation Acc: 65.9
+Epoch: [10/10], Step: [1501/3125], Train loss: 0.4710131883621216, Train acc: 91.725, Validation Acc: 68.2
+Epoch: [10/10], Step: [2001/3125], Train loss: 0.34623241424560547, Train acc: 91.114, Validation Acc: 68.9
+Epoch: [10/10], Step: [2501/3125], Train loss: 0.2569580674171448, Train acc: 91.305, Validation Acc: 69.5
+Epoch: [10/10], Step: [3001/3125], Train loss: 0.3357475697994232, Train acc: 92.646, Validation Acc: 68.0
+
+maximum accuracy of multiply sentences False: 69.2
+
+maximum accuracy of multiply sentences True: 70.6
